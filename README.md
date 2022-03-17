@@ -11,7 +11,7 @@
 
 After adding a NAS on my home network, reinstalling an operating system without worrying about backing up data became an incredibly easy and fast task (literally about 20 minutes while having a coffee). The only thing missing was a way of restoring all the settings of my favorite operating system for it to be precisely as it was before the clean install in one single step, hence, this repository.
 
-Any questions? Get in touch with me (or send me memes) on Twitter at [@TheCodeTherapy](https://twitter.com/TheCodeTherapy), and in case you found something useful in this repository, please feel free to star it on GitHub 😊
+Any questions? Get in touch with me (or send me memes) on Twitter at [@MarcoGomezGT](https://twitter.com/MarcoGomezGT), and in case you found something useful in this repository, please feel free to star it on GitHub 😊
 
 <br>
 
@@ -49,7 +49,7 @@ mlocate build-essential pkg-config autoconf automake cmake cmake-data clang clan
 
 - **liferea**: My favorite RSS News Aggregator. Yes, RSS still exists, and it's awesome! Please consider consuming things aside from all the garbage that Social Media's algorithms choose for you disregarding your true will. ([project homepage](https://github.com/lwindolf/liferea));
 
-- **hexchat**: After more than 20 years of using `irssi` on a Terminal, I decided to migrate to a GUI-based IRC client. Yes, IRC still exists, and it's awesome! You can find me as **`TheCodeTherapy`** at `Libera.Chat IRC Network` on several channels as `#ubuntu`, `#archlinux`, `#mame`, and others. ([project homepage](https://github.com/hexchat));
+- **hexchat**: After more than 20 years of using `irssi` on a Terminal, I decided to migrate to a GUI-based IRC client. Yes, IRC still exists, and it's awesome! ([project homepage](https://github.com/hexchat));
 
 - **telegram-desktop**: The Desktop client for Telegram, because we all have normie family members and friends, and it is not a piece of garbage like Whatsapp, right? ([project homepage](https://snapcraft.io/telegram-desktop));
 
